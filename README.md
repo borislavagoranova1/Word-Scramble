@@ -24,4 +24,4 @@ The ```IndexForm``` class represents the main form of the Word Scramble. It prov
 - Automatic word regeneration after a set number of failed attempts.
 
 # Live Demo
-[Exe file from releases]https://github.com/borislavagoranova1/Word-Scramble/releases/tag/v0.3
+[Exe file from releases] https://github.com/borislavagoranova1/Word-Scramble/releases/tag/v0.3
